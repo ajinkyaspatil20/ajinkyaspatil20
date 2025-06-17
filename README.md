@@ -31,7 +31,7 @@
 
 - **FleetFix** – AI-Powered Vehicle Maintenance System  
   *React, Flask, Google Gemini API, MongoDB*  
-  [🔗 GitHub](https://github.com/ajinkyaspatil20)
+  [🔗 GitHub](https://github.com/ajinkyaspatil20/FleetFix)
 
 - **Travel Budget Manager** – Itinerary & Cost Planner  
   *Java (Desktop)*  
@@ -64,14 +64,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ajinkyaspatil20&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyaspatil20&layout=compact&theme=radical" />
 </div>
-
----
-
-## 🧑‍💻 Coding Profiles
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
-[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://leetcode.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=CodeChef&logoColor=white)](https://www.codechef.com/)
 
 ---
 

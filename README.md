@@ -26,6 +26,8 @@
 ---
 
 ## 🛠️ Skills
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/a5b80ced-a88c-425f-93e8-3827e4a291c8" />
+
 #### 👨‍💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>

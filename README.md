@@ -1,5 +1,22 @@
-<h1 align="center">Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="28px" height="28px" style="animation:wave 2s infinite" alt="👋">, I'm <b>Ajinkya Patil</b></h1>
-<h3 align="center">A passionate Full-Stack Developer | Tech Mentor | Innovator</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFA500&center=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ajinkya+Patil;Passionate+Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Explorer+%F0%9F%A7%A0;Cloud+%7C+DevOps+Learner+%E2%9C%A8;Driven+by+Innovation+%26+Purpose;Solving+Real+Problems+with+Tech+%F0%9F%94%A5" alt="Typing Animation" />
+</div>
+
+<p align="center">
+  <em style="color: #FFA500; font-size: 18px;">✨ Turning ideas into impact through code, compassion, and continuous learning ✨</em>
+</p>
+
+
+
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Full-Stack Developer** and **AI/ML enthusiast** who crafts scalable solutions with a focus on innovation and impact.  
+Currently exploring **Deep Learning, DevOps**, and **Cloud Technologies**.  
+I believe in *tech for good*, and enjoy mentoring peers, solving real-world problems, and contributing to open source.
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajinkyaspatil20/" target="_blank">

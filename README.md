@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <b>Ajinkya Patil</b></h1>
+<h1 align="center">Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="28px" height="28px" style="animation:wave 2s infinite" alt="👋">, I'm <b>Ajinkya Patil</b></h1>
 <h3 align="center">A passionate Full-Stack Developer | Tech Mentor | Innovator</h3>
 
 <p align="center">
@@ -25,77 +25,67 @@
 
 ---
 
-## 🛠️ Skills
-<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/a5b80ced-a88c-425f-93e8-3827e4a291c8" />
+## 🛠️ Tech Stack
 
-#### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+<div align="center">
 
-#### 🌐 Frontend Technologies
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
+<table style="border-collapse: separate; border-spacing: 0; border: 1px solid #ccc; border-radius: 12px; width: 95%; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
+  <tr style="background-color: #e3f2fd;">
+    <td align="center" style="padding: 15px;"><strong>Languages</strong><br>
+      <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
+    </td>
+    <td align="center" style="padding: 15px;"><strong>Frontend</strong><br>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+    </td>
+    <td align="center" style="padding: 15px;"><strong>Backend</strong><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+    </td>
+  </tr>
+  <tr style="background-color: #f1f8e9;">
+    <td align="center" style="padding: 15px;"><strong>Database</strong><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+    </td>
+    <td align="center" style="padding: 15px;"><strong>DevOps & Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=docker,jenkins,aws,git,github,postman" />
+    </td>
+    <td align="center" style="padding: 15px;"><strong>ML / DS</strong><br>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/HuggingFace-FCC72B?style=for-the-badge&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/XGBoost-FF7043?style=for-the-badge&logo=xgboost&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Seaborn-42A5F5?style=for-the-badge&logo=seaborn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+    </td>
+  </tr>
+  <tr style="background-color: #fff3e0;">
+    <td align="center" colspan="3" style="padding: 15px;"><strong>CS Core</strong><br>
+      <img src="https://img.shields.io/badge/DSA-%2300C853?style=flat&logo=codeforces&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OOP-%23f38b00?style=flat&logo=abstract&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OS-%23007396?style=flat&logo=linux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Computer_Networks-%23E34F26?style=flat&logo=cisco&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-#### 🛠️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-</p>
+</div>
 
-#### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
 
-#### 🧠 Machine Learning / Data Science
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
 
-#### 📊 Data Analyst Tools
-<p>
+
+
+
+
+## 🔧 Tools / Editors
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RapidMiner-FFCC00?style=for-the-badge&logo=rapidminer&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-#### ⚙️ DevOps / Cloud
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-#### 📚 Core CS Concepts
-<p>
-  <img src="https://img.shields.io/badge/DSA-%2300C853?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-Principles-%23f38b00?style=for-the-badge&logo=abstract&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Operating_Systems-%23007396?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer_Networks-%23E34F26?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</div>
 
 ---
 
@@ -120,13 +110,8 @@
 ---
 
 ## 🏆 Achievements
-
-- 🥇 Finalist at **Hack to Crack 2.0 (National Level Hackathon)**
-- 🏅 Top 5 - **Innospark Ideathon (SAIT-Kharghar)**
-- 🧠 Top 10 - **AgriTech Hackathon (KJSCE-Vidyavihar)**
-- 🏐 Winner - **Inter-College Kabaddi Tournament**
-- 📚 Led Library Setup & Book Donation Drive
-
+<img src="https://github.com/user-attachments/assets/a5b80ced-a88c-425f-93e8-3827e4a291c8" width="22" height="22"/> **Python Coder** <br>
+<img src="https://cdn-icons-png.flaticon.com/128/732/732219.png" width="22" height="22"/> **Ethical Hacker**
 ---
 
 ## 📊 GitHub Stats

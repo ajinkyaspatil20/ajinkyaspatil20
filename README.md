@@ -154,13 +154,9 @@ I believe in *tech for good*, and enjoy mentoring peers, solving real-world prob
 ---
 
 <h3 align="center">🙏 Thank You for Visiting!</h3>
-
-<p align="center">
-  <em>May your code compile clean, your bugs be minimal, and your coffee cup never empty ☕🚀</em><br/>
-</p>
-
 <p align="center" style="margin-top: 10px;">
   <strong>— With curiosity, code & commitment,</strong><br/>
+<img align="center" alt="AI/ML Coding" width="200" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"><br>
   <b>Ajinkya Patil</b> 💻 | Aspiring Full-Stack & SE Engineer
 </p>
 

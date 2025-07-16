@@ -40,21 +40,32 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-I'm a passionate **Full-Stack Developer** and **AI/ML enthusiast** who crafts scalable solutions with a focus on innovation and impact.  
-Currently exploring **Deep Learning, DevOps**, and **Cloud Technologies**.  
-I believe in *tech for good*, and enjoy mentoring peers, solving real-world problems, and contributing to open source.
+<div align="left">
+  <img align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="380" style="margin-left: 20px; border-radius: 50%; object-fit: cover;" />
 
-- 🎓 Pursuing **B.E. in Information Technology** from **VESIT, Mumbai**
-- 💡 Passionate about **Web Development, AI, and Tech for Social Impact**
-- 🌱 Currently learning **Deep Learning, DevOps & Cloud Tools**
-- 🧠 I believe in **“Technology for Change”**
-- ⚡ Fun Fact: I’ve guided 50+ students as a mentor for JEE/CET!
+  <p>
+    Hello! I'm a passionate <strong>Full-Stack Developer</strong> and <strong>AI/ML enthusiast</strong> dedicated to building scalable, impactful tech solutions.
+    My current focus lies in <strong>Deep Learning, DevOps</strong>, and <strong>Cloud Technologies</strong>.
+  </p>
+
+  <p>
+    I strongly believe in <em>“tech for good”</em> and thrive on opportunities to mentor others, solve real-world problems, and contribute to open-source communities.
+  </p>
+
+  <ul>
+    <li>🎓 Pursuing <strong>B.E. in Information Technology</strong> at <strong>VESIT, Mumbai</strong></li>
+    <li>💡 Passionate about <strong>Web Development, AI, and Tech for Social Impact</strong></li>
+    <li>🌱 Continuously learning <strong>Deep Learning, DevOps & Cloud Tools</strong></li>
+    <li>🧠 Driven by the belief: <strong>“Technology for Change”</strong></li>
+    <li>⚡ Fun Fact: I’ve mentored over <strong>50 students</strong> preparing for JEE/CET!</li>
+  </ul>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -105,7 +116,7 @@ I believe in *tech for good*, and enjoy mentoring peers, solving real-world prob
 
 ---
 
-## 🔧 Tools / Editors
+## Tools / Editors
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
@@ -155,8 +166,6 @@ I believe in *tech for good*, and enjoy mentoring peers, solving real-world prob
 
 <h3 align="center">🙏 Thank You for Visiting!</h3>
 <p align="center" style="margin-top: 10px;">
-  <strong>— With curiosity, code & commitment,</strong><br/>
-<img align="center" alt="AI/ML Coding" width="200" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"><br>
-  <b>Ajinkya Patil</b> 💻 | Aspiring Full-Stack & SE Engineer
+  <strong> With curiosity, code & commitment</strong><br/>
 </p>
 

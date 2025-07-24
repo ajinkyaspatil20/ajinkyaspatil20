@@ -171,6 +171,11 @@
 | **Hobby Hive**    | React-based hobby e-commerce platform   | [🔗](https://github.com/ajinkyaspatil20/Hobby-Hive-E-commerce) |
 
 </td>
+
+### 🔗 Live Demo Links(Salon Site)
+
+- 🔴 **Client Side:** [Click to Book Appointment](https://frontend-pgtg.onrender.com/home)
+- 🔴 **Admin Panel:** [Click to Open Admin Dashboard](https://admin-6p7v.onrender.com/dashboard)
 <td valign="top" width="50%">
 
 ### ⚙️ DevOps & 📊 Data Science

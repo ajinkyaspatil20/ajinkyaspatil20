@@ -127,25 +127,64 @@
 
 ---
 
-## 💼 Projects
+## 💼 Projects Summary
 
-- **FleetFix** – AI-Powered Vehicle Maintenance System  
-  *React, Flask, Google Gemini API, MongoDB*  
-  [🔗 GitHub](https://github.com/ajinkyaspatil20/FleetFix)
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-- **Travel Budget Manager** – Itinerary & Cost Planner  
-  *Java (Desktop)*  
-  [🔗 GitHub](https://github.com/ajinkyaspatil20/Travel-Budget-management)
+### ☕ Java Projects
 
-- **GrocerySync** – Grocery Inventory & Billing System  
-  *Python, Tkinter, SQLite, Pandas*  
-  [🔗 GitHub](https://github.com/ajinkyaspatil20/Grocergrocery-management-system)
+| Project             | Description                                | Link |
+|---------------------|---------------------------------------------|------|
+| **JinxStocks**      | Stock tracker with alerts & portfolio mgmt  | [🔗](https://github.com/ajinkyaspatil20/JinxStocks) |
+| **Travel Budget**   | Trip planner & budget estimator (Swing)     | [🔗](https://github.com/ajinkyaspatil20/Travel-Budget-Manager) |
 
-- **SalonX Website** – Salon Booking & Product Ordering  
-  *MERN Stack*  
-  [🔗 GitHub](https://github.com/ajinkyaspatil20/Salon_website_Palcoa/tree/master/SalonX-main)
+</td>
+<td valign="top" width="50%">
+
+### 🧠 Python + AI/ML Projects
+
+| Project              | Description                                 | Link |
+|----------------------|----------------------------------------------|------|
+| **FleetFix**         | Predictive vehicle servicing AIML           | [🔗](https://github.com/ajinkyaspatil20/FleetFix) |
+| **Digit Recognizer** | CNN-based handwritten digit detection        | [🔗](https://github.com/ajinkyaspatil20/HandDigit-Recognizer) |
+| **SwadShare**        | Recipe sharing Flask app                     | [🔗](https://github.com/ajinkyaspatil20/SwadShare) |
+| **Plate Reader**     | OCR for vehicle number plate detection       | [🔗](https://github.com/ajinkyaspatil20/Smart-VehiclePlate-Reader) |
+| **GrocerySync**      | Grocery management using Python + SQL        | [🔗](https://github.com/ajinkyaspatil20/Grocergrocery-management-system) |
+
+</td>
+  </tr>
+</table>
 
 ---
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🌐 Web Development
+
+| Project           | Description                            | Link |
+|-------------------|-----------------------------------------|------|
+| **Salon Site**    | MERN & WooCommerce salon website        | [🔗](https://github.com/ajinkyaspatil20/Salon_website_Palcoa) |
+| **Hobby Hive**    | React-based hobby e-commerce platform   | [🔗](https://github.com/ajinkyaspatil20/Hobby-Hive-E-commerce) |
+
+</td>
+<td valign="top" width="50%">
+
+### ⚙️ DevOps & 📊 Data Science
+
+| Project         | Description                               | Link |
+|------------------|--------------------------------------------|------|
+| **DevOps**      | Jenkins, Docker, AWS, Nagios, CI/CD        | [🔗](https://github.com/ajinkyaspatil20/Devops_Project) |
+| **DS Tools**    | ML models & tools in Jupyter notebooks     | [🔗](https://github.com/ajinkyaspatil20/Datascience-Tools) |
+
+</td>
+  </tr>
+</table>
+
+
 
 ## 🏆 Achievements
 

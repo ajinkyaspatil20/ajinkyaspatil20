@@ -43,7 +43,7 @@
 ##  About Me
 
 <div align="left">
-  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> width="380" style="margin-left: 20px; border-radius: 50%; object-fit: cover;" />
+  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> 
 
   <p>
     Hello! I'm a passionate <strong>Full-Stack Developer</strong> and <strong>AI/ML enthusiast</strong> dedicated to building scalable, impactful tech solutions.
@@ -55,11 +55,16 @@
   </p>
 
   <ul>
-    <li>🎓 Pursuing <strong>B.E. in Information Technology</strong> at <strong>VESIT, Mumbai</strong></li>
-    <li>💡 Passionate about <strong>Web Development, AI, and Tech for Social Impact</strong></li>
-    <li>🌱 Continuously learning <strong>Deep Learning, DevOps & Cloud Tools</strong></li>
-    <li>🧠 Driven by the belief: <strong>“Technology for Change”</strong></li>
-    <li>⚡ Fun Fact: I’ve mentored over <strong>50 students</strong> preparing for JEE/CET!</li>
+   <li>🎓 Pursuing a <strong>B.E. in Information Technology</strong> at <strong>VESIT, Mumbai</strong></li>
+
+<li>💡 Deeply passionate about <strong>Web Development, Artificial Intelligence</strong>, and using technology as a catalyst for <strong>social impact</strong></li>
+
+<li>🌱 Continuously expanding my skill set in <strong>Deep Learning, DevOps,</strong> and modern <strong>Cloud Infrastructure</strong> to build scalable, intelligent systems</li>
+
+<li>🧠 Guided by the philosophy: <strong>“Technology for Change”</strong> — building with purpose, not just code</li>
+
+<li>⚡ Fun Fact: I’ve proudly mentored over <strong>50 students</strong> in their journey through <strong>JEE/CET</strong> preparation, blending teaching with leadership</li>
+
   </ul>
 </div>
 

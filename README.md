@@ -45,27 +45,20 @@
 <div align="left">
   <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> 
 
-  <p>
-    Hello! I'm a passionate <strong>Full-Stack Developer</strong> and <strong>AI/ML enthusiast</strong> dedicated to building scalable, impactful tech solutions.
-    My current focus lies in <strong>Deep Learning, DevOps</strong>, and <strong>Cloud Technologies</strong>.
-  </p>
+<p>
+  Hi! I'm a <strong>Full-Stack Developer</strong> and <strong>AI/ML enthusiast</strong> passionate about building scalable, intelligent tech solutions.  
+  I specialize in <strong> Data Analytics, Deep Learning, DevOps</strong> to solve real-world problems.
+</p>
 
-  <p>
-    I strongly believe in <em>“tech for good”</em> and thrive on opportunities to mentor others, solve real-world problems, and contribute to open-source communities.
-  </p>
+<ul>
+  <li>🎓 Pursuing <strong>B.E. in Information Technology</strong> at VESIT, Mumbai</li>
+  <li>💼 Completed <strong>12 months</strong> of internship experience (4 offers × 3 months each) across <strong>Full-Stack Development, AI/ML, and Data Analytics</strong></li>
+  <li>💡 Skilled in <strong>Web Development</strong> and <strong>Artificial Intelligence</strong> with a vision for social impact</li>
+  <li>🌱 Continuously advancing expertise in <strong>Deep Learning</strong> and modern <strong>Cloud Infrastructure</strong></li>
+  <li>⚡ Mentored 50+ students in <strong>JEE/CET</strong> preparation</li>
+</ul>
 
-  <ul>
-   <li>🎓 Pursuing a <strong>B.E. in Information Technology</strong> at <strong>VESIT, Mumbai</strong></li>
 
-<li>💡 Deeply passionate about <strong>Web Development, Artificial Intelligence</strong>, and using technology as a catalyst for <strong>social impact</strong></li>
-
-<li>🌱 Continuously expanding my skill set in <strong>Deep Learning, DevOps,</strong> and modern <strong>Cloud Infrastructure</strong> to build scalable, intelligent systems</li>
-
-<li>🧠 Guided by the philosophy: <strong>“Technology for Change”</strong> — building with purpose, not just code</li>
-
-<li>⚡ Fun Fact: I’ve proudly mentored over <strong>50 students</strong> in their journey through <strong>JEE/CET</strong> preparation, blending teaching with leadership</li>
-
-  </ul>
 </div>
 
 ---

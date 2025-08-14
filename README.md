@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <em style="color: #FFA500; font-size: 18px;">✨ Turning ideas into impact through code, compassion, and continuous learning ✨</em>
+  <em style="color: #FFA500; font-size: 18px;"> Turning ideas into impact through code, compassion, and continuous learning </em>
 </p>
 
 ---

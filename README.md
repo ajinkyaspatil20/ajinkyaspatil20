@@ -35,11 +35,16 @@
   </tr>
 </table>
 
-<h3 align="center">
-  <a href="https://ajinkyaspatil-portfolio.netlify.app" target="_blank" style="color: orange; text-decoration: none;">
-    Click Here To Visit My Portfolio
+<p align="center">
+  <a href="https://ajinkyaspatil-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Click%20Here-orange?style=flat-square&logo=appveyor" alt="Portfolio Badge" width="300" height="80"/>
   </a>
-</h3>
+</p>
+
+
+
+
+
 
 
 

@@ -196,13 +196,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats-yourname.vercel.app/api?username=ajinkyaspatil20&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats-yourname.vercel.app?user=ajinkyaspatil20&theme=radical&date_format=M%20j%5B,%20Y%5D" />
-  <img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=ajinkyaspatil20&layout=compact&theme=radical" />
+<div align="center">  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ajinkyaspatil20&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />  
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=ajinkyaspatil20&theme=radical&date_format=M%20j%5B,%20Y%5D" />  
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyaspatil20&layout=compact&theme=radical" />  
 </div>
+
 
 
 ---

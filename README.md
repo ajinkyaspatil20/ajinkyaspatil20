@@ -62,10 +62,8 @@
 
 <ul>
   <li>🎓 Pursuing <strong>B.E. in Information Technology</strong> at VESIT, Mumbai</li>
-  <li>💼 Completed <strong>12 months</strong> of internship experience (4 offers × 3 months each) across <strong>Full-Stack Development, AI/ML, and Data Analytics</strong></li>
   <li>💡 Skilled in <strong>Web Development</strong> and <strong>Artificial Intelligence</strong> with a vision for social impact</li>
   <li>🌱 Continuously advancing expertise in <strong>Deep Learning</strong> and modern <strong>Cloud Infrastructure</strong></li>
-  <li>⚡ <strong>Mentor (JEE, NEET, CET)</strong> |  @<strong>Chapter Lead @RHA💚</strong> | <strong>Campus Ambassador @Internshala</strong></li>
 
 </ul>
 
